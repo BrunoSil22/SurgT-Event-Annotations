@@ -100,4 +100,8 @@ This license applies **only to the annotation metadata**, not to SurgT video dat
 ---
 ## Citation
 
-If you use these annotations, please cite the associated paper and this repository (see `CITATION.cff`).
+If you use these annotations, please cite the associated paper:
+
+B. P. D. Silva et al., "IMI-Tracker: A Real-Time Two-Stage Tracker With Motion Inpainting for Soft Tissue Tracking Under Instrument Occlusion," *IEEE Access*, vol. 14, pp. 101049–101062, 2026, doi: 10.1109/ACCESS.2026.3708670.
+
+Citation metadata for this repository is also available in [`CITATION.cff`](CITATION.cff).
