@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+
+message: "If you use these annotations, please cite the associated paper and this repository."
+
+title: "SurgT Challenge Event Annotations"
+type: dataset
+
+authors:
+  - family-names: "Pires da Silva"
+    given-names: "Bruno"
+
+repository-code: "https://github.com/BrunoSil22/SurgT-Challenge-Event-Annotations"
+license: "CC-BY-4.0"
+
+preferred-citation:
+  type: article
+  title: "IMI-Tracker: A Real-Time Two-Stage Tracker With Motion Inpainting for Soft Tissue Tracking Under Instrument Occlusion"
+
+  authors:
+    - family-names: "Pires da Silva"
+      given-names: "Bruno"
+      orcid: "https://orcid.org/0000-0002-0314-9703"
+
+    - family-names: "Queirós"
+      given-names: "Sandro"
+      orcid: "https://orcid.org/0000-0001-5259-1891"
+
+    - family-names: "Fernández-Rodríguez"
+      given-names: "Marcos"
+      orcid: "https://orcid.org/0000-0002-4867-0420"
+
+    - family-names: "Stern"
+      given-names: "Antonia"
+
+    - family-names: "Correia-Pinto"
+      given-names: "Jorge"
+      orcid: "https://orcid.org/0000-0002-9265-6896"
+
+    - family-names: "Lima"
+      given-names: "Estêvão"
+
+    - family-names: "Vilaça"
+      given-names: "João L."
+      orcid: "https://orcid.org/0000-0002-4196-5357"
+
+  journal: "IEEE Access"
+  volume: 14
+  year: 2026
+  start: 101049
+  end: 101062
+  doi: "10.1109/ACCESS.2026.3708670"
