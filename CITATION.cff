@@ -8,6 +8,7 @@ type: dataset
 authors:
   - family-names: "Pires da Silva"
     given-names: "Bruno"
+    orcid: "https://orcid.org/0000-0002-0314-9703"
 
 repository-code: "https://github.com/BrunoSil22/SurgT-Challenge-Event-Annotations"
 license: "CC-BY-4.0"
